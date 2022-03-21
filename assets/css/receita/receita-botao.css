@@ -1,0 +1,16 @@
+
+.receita__botao {
+    background: #CC0000;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 1rem;
+    transition: 0.5s ease-in-out;
+}
+
+.receita__botao:hover {
+    /* cursor pointer faz aparecer a mãozinha quando o mouse estiver no objeto */
+    cursor: pointer;
+    background: #620404;
+    
+}
